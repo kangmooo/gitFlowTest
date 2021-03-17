@@ -12,5 +12,6 @@ public class DemoApplication {
         // 너희가 주석을 아느냐
         System.out.println("hello world~!");
         // 쉽지가 않네
+        // test
     }
 }
