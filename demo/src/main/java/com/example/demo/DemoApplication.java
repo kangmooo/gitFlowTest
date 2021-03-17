@@ -8,7 +8,8 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
+        System.out.println("test");
+        // 너희가 주석을 아느냐
         System.out.println("hello world~!");
     }
-
 }
